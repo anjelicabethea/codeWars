@@ -1,0 +1,8 @@
+function generateRange(min, max, step){
+let e= []
+for (let i= min; i<=max;i+=step){
+  e.push (i)
+  console.log(i)
+}
+return e;
+}

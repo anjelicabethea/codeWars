@@ -1,0 +1,16 @@
+// --------keyword "function"
+// |       ----your function name
+// |       |    ---if needed, some arguments will appear in brackets
+// |       |    |
+// function myfunc(){  ---------your function code will starting with "{"
+// //you should type your code here
+// }----------------------------ending with "}"
+
+
+
+//refer to the example and write your first JS function
+function helloWorld(){
+  var str="Hello World!"
+  console.log(str)
+  return str
+}
